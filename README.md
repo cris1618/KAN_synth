@@ -42,7 +42,7 @@ The full model descriptions can be found in the thesis work at: [Not yet publish
 Once the package is published on [PyPI](https://pypi.org), it can be installed via `pip`:
 
 ```bash
-pip install kan-synth
+pip install KAN-synth
 ```
 
 All required packages are listed in `requirements.txt`, and will be automatically installed when using:
