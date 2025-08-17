@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://pypi.org/project/KAN-synth/"><img src="https://img.shields.io/pypi/v/KAN-synth.svg?color=orange&label=pypi" alt="pypi"></a>
+  <img src="https://img.shields.io/pypi/dm/KAN-synth.svg?color=grey&label=downloads" alt="downloads">
   <img src="https://img.shields.io/pypi/l/KAN-synth.svg?color=brightgreen&label=license" alt="license">
   <img src="https://img.shields.io/pypi/pyversions/KAN-synth.svg?label=python" alt="python">
 </p>
