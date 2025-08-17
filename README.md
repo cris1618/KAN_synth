@@ -1,4 +1,4 @@
-![PyPI - Version](https://img.shields.io/pypi/v/KAN-synth)
+![PyPI - Version](https://pypi.org/project/KAN-synth/#description)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/KAN-synth)
 ![License](https://img.shields.io/pypi/l/KAN-synth)
 ![Python Versions](https://img.shields.io/pypi/pyversions/KAN-synth)
