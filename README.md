@@ -1,4 +1,11 @@
 <p align="center">
+  <a href="https://pypi.org/project/KAN-synth/"><img src="https://img.shields.io/pypi/v/KAN-synth.svg?color=orange&label=pypi" alt="pypi"></a>
+  <img src="https://img.shields.io/pypi/l/KAN-synth.svg?color=brightgreen&label=license" alt="license">
+  <img src="https://img.shields.io/pypi/pyversions/KAN-synth.svg?label=python" alt="python">
+</p>
+
+
+<p align="center">
   <a href="https://pypi.org/project/KAN-synth/"><img alt="PyPI" src="https://img.shields.io/pypi/v/KAN-synth?label=pypi&color=orange&style=flat-square"></a>
   <img alt="Python" src="https://img.shields.io/badge/python-3-blue?style=flat-square">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
