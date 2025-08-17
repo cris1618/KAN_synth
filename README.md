@@ -1,8 +1,7 @@
-![PyPI - Version](https://pypi.org/project/KAN-synth/#description)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/KAN-synth)
-![License](https://img.shields.io/pypi/l/KAN-synth)
-![Python Versions](https://img.shields.io/pypi/pyversions/KAN-synth)
-![Development Status](https://img.shields.io/badge/Development-Alpha-yellow)
+[![PyPI - Version](https://img.shields.io/pypi/v/KAN-synth)](https://pypi.org/project/KAN-synth/)
+[![Downloads](https://img.shields.io/pypi/dm/KAN-synth)](https://pypi.org/project/KAN-synth/)
+[![License](https://img.shields.io/pypi/l/KAN-synth)](https://github.com/cris1618/KAN_synth/blob/main/LICENSE)
+[![Python Versions](https://img.shields.io/pypi/pyversions/KAN-synth)](https://pypi.org/project/KAN-synth/)
 
 
 # Kolmogorov–Arnold Networks for Tabular Data Synthesis
