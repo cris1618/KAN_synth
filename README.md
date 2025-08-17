@@ -1,3 +1,10 @@
+![PyPI - Version](https://img.shields.io/pypi/v/KAN-synth)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/KAN-synth)
+![License](https://img.shields.io/pypi/l/KAN-synth)
+![Python Versions](https://img.shields.io/pypi/pyversions/KAN-synth)
+![Development Status](https://img.shields.io/badge/Development-Alpha-yellow)
+
+
 # Kolmogorov–Arnold Networks for Tabular Data Synthesis
 
 **KAN_synth** is an open-source Python package for generating high-fidelity synthetic tabular data using Kolmogorov–Arnold Networks (KANs). It extends the original [CTGAN](https://github.com/sdv-dev/CTGAN) and [TVAE](https://github.com/sdv-dev/CTGAN) models from the Synthetic Data Vault (SDV) by replacing their MLP-based architectures with KAN-based components. 
